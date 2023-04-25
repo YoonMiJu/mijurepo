@@ -1,0 +1,46 @@
+
+.orange {
+  color: orange;
+}
+
+.profile {
+  width: 300px;
+  text-align:  center;
+  padding: 1rem;
+  background-color: #ebebeb;
+  border-radius: 20px;
+  box-shadow: 8px 27px 165px 55px rgba(0,0,0,0.56);
+  margin-bottom: 1rem;
+  -webkit-box-shadow: 8px 27px 165px 55px rgba(0,0,0,0.50);
+  -moz-box-shadow: 8px 27px 165px 55px rgba(0,0,0,0.56);;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.Avatar {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.new {
+  position: absolute;
+  background-color: #30AADD;
+  left: 82%;
+  top: 10%;
+  padding: 0.2rem;
+  border-radius: 15%;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
